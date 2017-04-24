@@ -1,0 +1,33 @@
+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ã÷°é
+1squid:S1220""Move this file to a named package.
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(€Ìæúÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(¡û«
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ç¸¸ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(‚œÕ±üÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(£×§
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(¨î™€şÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(™÷£Ñ
+psquid:S1192"TDefine a constant instead of duplicating this literal "El resultado es -> " 4 times.(¡É´¹8®çíƒº+
+Gsquid:S1444"+Make this "public static inter" field final(ì˜²8®çíƒº+
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Àœ·S8®çíƒº+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¡É´¹8®çíƒº+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(âµ°”ıÿÿÿÿ8®çíƒº+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(›¹Ôû8®çíƒº+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(‰Âì8®çíƒº+
+„"squid:ClassVariableVisibilityCheck"QMake inter a static final constant or non-public and provide accessors if needed.(ì˜²8®çíƒº+
+Lsquid:S1481"+Remove this unused "salida" local variable.(’ş“Èùÿÿÿÿ8®çíƒº+
+[squid:S1854":Remove this useless assignment to local variable "salida".(’ş“Èùÿÿÿÿ8®çíƒº+
